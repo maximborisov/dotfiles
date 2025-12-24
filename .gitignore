@@ -1,0 +1,15 @@
+# Local overrides
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Sensitive files
+*.secret
+*.key
