@@ -5,7 +5,7 @@ Personal dotfiles for zsh, git, and other configurations.
 ## Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
+git clone https://github.com/maximborisov/dotfiles.git ~/dotfiles
 cd ~/dotfiles/scripts
 chmod +x bootstrap.sh
 ./bootstrap.sh
